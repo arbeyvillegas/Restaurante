@@ -1,7 +1,7 @@
 Restaurante Online
 =================================
 
-Restaurante Online. Backend contruido en scala .
+Restaurante Online. Backend construido con lenguaje Scala .
 
 Hecho por:  Arbey Villegas, Andres Barrera, Erick Sanchez y Adriana Guzman
 
@@ -10,7 +10,7 @@ Generalidades
 
 - Servicios REST soportado con framework Play! 2
 
-- Gestión de acceso a datos con API Slick
+- Gestión de acceso a datos con ORM Slick
 
 - Soporte para base de datos MySQL
 
